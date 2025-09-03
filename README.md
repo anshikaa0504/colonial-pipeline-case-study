@@ -15,4 +15,4 @@ The report analyzes the attack timeline, operational/economic impact, response, 
 - Recommendations for critical infrastructure cybersecurity
 
 ## Links
-- 🔗 [LinkedIn Article](your-linkedin-post-url-here)
+- 🔗 [LinkedIn Article] https://lnkd.in/giEi66sY
