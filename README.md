@@ -6,7 +6,6 @@ The report analyzes the attack timeline, operational/economic impact, response, 
 ## Files
 - 📄 `Colonial_Pipeline_Case_Study.pdf` – Full 8-page report
 - 🖼️ `Colonial_Pipeline_Timeline.png` – Timeline infographic
-- 🖼️ `Colonial_Pipeline_Ransom_Donut.png` – Ransom recovery visualization
 
 ## Highlights
 - Timeline of attack events (May 6–12, 2021)
