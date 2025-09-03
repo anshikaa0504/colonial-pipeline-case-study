@@ -4,7 +4,7 @@ This repository contains my detailed case study of the 2021 Colonial Pipeline ra
 The report analyzes the attack timeline, operational/economic impact, response, and lessons learned.
 
 ## Files
-- 📄 `Colonial_Pipeline_Case_Study.pdf` – Full 8-page report
+- 📄 `Case Study The Colonial Pipeline Ransomware Attack (2021).pdf` – Full 12-page report
 - 🖼️ `Colonial_Pipeline_Timeline.png` – Timeline infographic
 
 ## Highlights
